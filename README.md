@@ -1,7 +1,7 @@
 # PdfMaker
 ![PdfMaker Logo](https://github.com/mr-ravin/pdfmaker/blob/main/PdfMaker.png)
 
-An opensource image to pdf maker android application.
+An opensource image to pdf maker android application. [A4 Pages]
 
 ##### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
  
