@@ -1,18 +1,27 @@
-# PdfMaker
 ![PdfMaker Logo](https://github.com/mr-ravin/pdfmaker/blob/main/PdfMaker.png)
 
-An opensource image to pdf maker android application. [A4 Pages]
+An opensource image to pdf maker android application. The produced pdfs contains pages of A4 size.
 
 ##### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
  
 #### Download FileCrypt from Google PlayStore:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.pdfmaker)
 
-
 #### Application View
 
 ![android application view 1](https://github.com/mr-ravin/pdfmaker/blob/main/screen1.jpg)
 
+#### Install Dependency Library 
+
+In the build.gradle file, add following lines:
+
+```
+dependencies {
+    implementation 'com.tom_roush:pdfbox-android:1.8.10.0'
+}
+```
+
+For more details, do refer the this [link](https://camposha.info/pdfbox-android/)
 
 ##### Note: In the source code, the code of RealPathUtil.java is taken from [link](https://gist.github.com/tatocaster/32aad15f6e0c50311626), which was made opensourced by [Merab Tato Kutalia](https://github.com/tatocaster). This file is used to retrieve file path from uri. 
 
