@@ -27,7 +27,7 @@ dependencies {
 }
 ```
 
-For more details please do refer this [link](https://camposha.info/pdfbox-android/)
+For more details, please do refer this [link](https://camposha.info/pdfbox-android/)
 
 ##### Note: In the source code, the code of RealPathUtil.java is taken from [link](https://gist.github.com/tatocaster/32aad15f6e0c50311626), which was made opensourced by [Merab Tato Kutalia](https://github.com/tatocaster). This file is used to retrieve file path from uri. 
 
