@@ -3,6 +3,12 @@
 
 An opensource image to pdf maker android application.
 
+##### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
+ 
+#### Download FileCrypt from Google PlayStore:
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.pdfmaker)
+
+
 #### Application View
 
 ![android application view 1](https://github.com/mr-ravin/pdfmaker/blob/main/screen1.jpg)
