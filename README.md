@@ -2,8 +2,14 @@
 
 An opensource image to pdf maker android application. The produced pdfs contains pages of A4 size.
 
+
 ##### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
- 
+
+
+#### Instructions:
+- Tap and hold over images when need to select multiple images.
+- In case where only one image is needed to make a pdf, a short-touch on the screen will also work.
+
 #### Download FileCrypt from Google PlayStore:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.pdfmaker)
 
@@ -21,7 +27,7 @@ dependencies {
 }
 ```
 
-For more details, do refer the this [link](https://camposha.info/pdfbox-android/)
+For more details please do refer this [link](https://camposha.info/pdfbox-android/)
 
 ##### Note: In the source code, the code of RealPathUtil.java is taken from [link](https://gist.github.com/tatocaster/32aad15f6e0c50311626), which was made opensourced by [Merab Tato Kutalia](https://github.com/tatocaster). This file is used to retrieve file path from uri. 
 
