@@ -10,7 +10,7 @@ An opensource image to pdf maker android application. The produced pdfs contains
 - Tap and hold over images when need to select multiple images.
 - In case where only one image is needed to make a pdf, a short-touch on the screen will also work.
 
-#### Download FileCrypt from Google PlayStore:
+#### Download PDFMaker from Google PlayStore:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.pdfmaker)
 
 #### Application View
