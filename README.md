@@ -13,6 +13,13 @@ An opensource image to pdf maker android application. The produced pdfs contains
 #### Download PDFMaker from Google PlayStore:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.pdfmaker)
 
+#### Steps for using this app:
+
+1. At start, this application will open the gallery.
+2. Select and hold for pictures, in the sequence which you want them to be on the pdf.
+3. Click on the SELECT button.
+4. This app will then create an A4 size pdf with its detail shown in a notification.
+
 #### Application View
 
 ![android application view 1](https://github.com/mr-ravin/pdfmaker/blob/main/screen1.jpg)
